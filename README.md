@@ -1,6 +1,6 @@
 ### Hi I'm Cinthia Souza 👋
 
-- 🖥️ Computer Computer Engineer at PUCMG.
+- 🖥️ Computer Engineer 
 
 <div align="center">
   <a href="https://github.com/CinthiaS">
