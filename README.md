@@ -1,8 +1,6 @@
 ### Hi I'm Cinthia Souza 👋
 
-- 🖥️ Computer Computer Engineer at PUCMG;
-- 🌱 I’m currently learning React.
-
+- 🖥️ Computer Computer Engineer at PUCMG.
 
 #### Languages and Working Tools...
 
