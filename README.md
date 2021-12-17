@@ -2,9 +2,6 @@
 
 - 🖥️ Computer Computer Engineer at PUCMG.
 
-#### Languages and Working Tools...
-
-
 <div align="center">
   <a href="https://github.com/CinthiaS">
    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CinthiaS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
