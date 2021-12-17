@@ -2,7 +2,7 @@
 
 <img align="right" height="180px" src="https://cdn.dribbble.com/users/220167/screenshots/2373375/resp_dribbble.gif">
 
-- 🖥️ I’m studying: Computer Computer Engineer at PUCMG;
+- 🖥️ Computer Computer Engineer at PUCMG;
 - 🌱 I’m currently learning React.
 
 
